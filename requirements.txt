@@ -1,0 +1,3 @@
+plotlt
+folium
+yfinance
